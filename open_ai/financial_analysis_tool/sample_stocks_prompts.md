@@ -1,4 +1,4 @@
-Magnificent Seven U.S. tech companies and Crypto-related companies with Bitcoin treasuries companies:
+### The Magnificent Seven: Leading U.S. Tech Firms and Crypto Companies Holding Bitcoin Treasuries
 
 ---
 
