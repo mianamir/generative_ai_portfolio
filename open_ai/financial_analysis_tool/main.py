@@ -10,8 +10,6 @@ financial_data_df = pd.DataFrame({
     })
 
 with col1:
-    # st.title("Modern Fintech Analysis Tool", )
-    # st.markdown("<h3>Modern Fintech Analysis Tool</h3>", unsafe_allow_html=True)
     st.markdown(
         """
         <h4 style="color:#0073e6; text-align:center;">Modern Fintech Analysis GenAI Tool</h4>
