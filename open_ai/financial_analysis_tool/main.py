@@ -18,7 +18,7 @@ with col1:
         """,
         unsafe_allow_html=True
     )
-    news_article = st.text_area("Put financial news text from sample_stocks_prompts.txt", height=300)
+    news_article = st.text_area("Put financial news text from sample_stocks_prompts.md", height=300)
     st.markdown("""
         <style>
         div.stButton > button:first-child {
