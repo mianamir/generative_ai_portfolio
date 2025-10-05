@@ -5,7 +5,7 @@ A Streamlit web app that extracts key financial data from news articles using Op
 
 ---
 
-![App Sample](images/screenshot.png)
+![App Sample]([images/screenshot.png](https://github.com/mianamir/generative_ai_portfolio/blob/main/open_ai/financial_data_extractor/images/screenshot.png))
 
 ---
 
