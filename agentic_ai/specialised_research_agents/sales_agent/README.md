@@ -1,4 +1,3 @@
-```markdown
 # AI Sales Lead Automation
 
 **Agency:** Smart AI Solutions for Business Growth
@@ -51,4 +50,3 @@ Automated sales lead qualification system that filters time-sensitive opportunit
 
 ---
 *Built to help your sales team focus on high-priority opportunities*
-```
