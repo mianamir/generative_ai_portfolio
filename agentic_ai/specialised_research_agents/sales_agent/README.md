@@ -22,6 +22,7 @@ Automated sales lead qualification system that filters time-sensitive opportunit
 
 ### Slack Notification
 ![Slack Message](./images/slack-notification.png)
+
 *Real-time alert sent to sales team*
 
 ## Notification Format
