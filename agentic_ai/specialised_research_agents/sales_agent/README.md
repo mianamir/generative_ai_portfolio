@@ -42,12 +42,5 @@ Automated sales lead qualification system that filters time-sensitive opportunit
 - **Communication:** Slack
 - **Trigger:** Web form submission
 
-## Setup Instructions
-1. Place your screenshots in the `images/` folder:
-   - `form-screenshot.png`
-   - `workflow-screenshot.png`
-   - `slack-notification.png`
-2. Update image paths if using a different directory structure
-
 ---
 *Built to help your sales team focus on high-priority opportunities*
