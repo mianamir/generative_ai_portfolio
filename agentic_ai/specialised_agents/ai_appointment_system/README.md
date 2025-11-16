@@ -2,7 +2,7 @@
 
 ### **1. Purpose**
 
-An intelligent appointment booking system for beauty salons that uses AI to handle customer scheduling through natural conversation. The system checks calendar availability, suggests time slots, and automatically creates appointments in Google Calendar
+An intelligent appointment booking system for beauty salons that uses AI to handle customer scheduling through natural conversation. The system checks calendar availability, suggests time slots, and automatically creates appointments in Google Calendar.
 
 ---
 
@@ -84,6 +84,40 @@ Customer asks to book → AI checks availability → suggests slots → collects
 * Improved customer experience
 * Reduced staff workload
 * Scalable for many concurrent users
+
+---
+
+### **9. Prompt Engineering Overview**
+
+The system prompt used in the AI node defines a controlled, step-based workflow to ensure consistent and reliable behavior. The design includes:
+
+**Step-by-Step Prompt Structure:**
+
+* Assigns the AI a clear role (scheduling assistant)
+
+* Defines explicit steps for the booking process
+
+* Specifies when to use tools and what they return
+
+* Enforces data requirements (customer name and email)
+
+* Provides notification templates for consistent confirmations
+
+* Establishes rules: timezone, clarifying questions, no hallucination
+
+* Supplies business context (salon name, phone, current date)
+
+**Why This Prompt Works:**
+
+* It provides strong determinism, reducing unpredictable behavior
+
+* The structured steps guide the AI to follow a reliable workflow
+
+* Tool usage is separated clearly, allowing the model to reason about when to call them
+
+* Examples help the AI mimic the expected confirmation format
+
+* Clear constraints significantly improve accuracy and reduce errors
 
 ---
 
