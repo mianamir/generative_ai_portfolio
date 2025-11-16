@@ -121,6 +121,6 @@ The system prompt used in the AI node defines a controlled, step-based workflow 
 
 ---
 
-### Screenshots
+### Working AI Workflow n8n Screenshot
 
 ![workflow image](./images/n8n-ai-appointment-workflow.png)
