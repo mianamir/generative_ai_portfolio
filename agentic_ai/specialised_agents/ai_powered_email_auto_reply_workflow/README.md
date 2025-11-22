@@ -2,7 +2,7 @@
 
 An intelligent, fully automated Gmail assistant that monitors your inbox, understands incoming emails, generates professional replies using state-of-the-art AI, and saves them as drafts for your final review.
 
-## Key Features (Updated November 2025)
+## Key Features
 
 ### 🤖 Real-Time Intelligent Email Monitoring
 - Continuously watches your Gmail inbox using Gmail API push notifications (Pub/Sub) – no more wasteful polling every minute
